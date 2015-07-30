@@ -1,0 +1,4 @@
+applications:
+- name: swastikpanda-gui
+  memory: 512M
+  host: swastikpanda
